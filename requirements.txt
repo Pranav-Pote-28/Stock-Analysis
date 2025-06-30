@@ -3,5 +3,5 @@ numpy
 matplotlib
 yfinance
 keras
-tensorflow  # Required by Keras
+tensorflow
 streamlit
