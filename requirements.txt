@@ -3,5 +3,5 @@ numpy
 matplotlib
 yfinance
 keras
-tensorflow
+tensorflow==2.10.0
 streamlit
