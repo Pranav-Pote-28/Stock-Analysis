@@ -44,5 +44,5 @@ python stock_prediction.py
 ## Output
 The following plot shows the comparison between the actual and predicted Google stock closing prices:
 
-![Stock Price Prediction](output.jpg)
+![Stock Price Prediction](output.png)
 
